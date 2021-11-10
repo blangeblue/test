@@ -8,7 +8,7 @@ on:
   push:
     branches: 
       - master
-      - abc
+      - abcd
   pull_request:
     branches: [ master ]
 
